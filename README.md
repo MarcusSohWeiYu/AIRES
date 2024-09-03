@@ -7,16 +7,19 @@ https://github.com/user-attachments/assets/d59d8e71-d7b4-480c-87d9-86ac2b55ba23
 # Features
 
 ### 🇸🇬 Natural Singaporean Voice
-AI that sounds so local and realistic, you forget it’s AI.
+- **Realistic Sound**: AI that sounds so local and realistic, you forget it’s AI.
 
 ### 🤑 Cost Reduction
-We've measured the average cost per VoIP call, ranging from $0.05 to $1, which is much more cost-efficient than human equivalents!
+- **Cost Efficiency**: Average cost per VoIP call ranges from $0.05 to $1.
+- **Comparison**: Much more cost-efficient than human equivalents!
 
 ### 📝 Ticketing Integration
-Our AI Agent instantly and diligently records every detail of your conversation into human-readable support tickets, and retrieves them when needed.
+- **Instant Recording**: Our AI Agent instantly records every detail.
+- **Human-Readable**: Converts conversations into readable support tickets.
+- **Efficient Retrieval**: Retrieves tickets when needed.
 
 ### 📱 Multi-Platform Call Transfer
-Seamlessly continue conversations across Voice, WhatsApp, and Email.
+- **Seamless Integration**: Continue conversations across Voice, WhatsApp, and Email.
 
 # Meet the Team
 
