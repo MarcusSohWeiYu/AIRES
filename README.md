@@ -22,10 +22,19 @@ https://github.com/user-attachments/assets/d59d8e71-d7b4-480c-87d9-86ac2b55ba23
 - **Seamless Integration**: Continue conversations across Voice, WhatsApp, and Email.
 
 # Meet the Team
+![AIRES Team](images/TeamPic1.jpg)
+
 
 **ProcoLink** was founded by [Siew Wei Heng](https://www.linkedin.com/in/wei-heng/) and [Jet Palmero](https://www.linkedin.com/in/jet-palmero/), who invited me to join them as part of the founding AI software engineering team. Together with [Siew Wei Heng](\https://www.linkedin.com/in/wei-heng/), [Anson Oh](https://www.linkedin.com/in/anson-oh/), and [Lee Guan Feng](https://www.linkedin.com/in/lee-guan-feng/), we developed **AIRES**—an AI-First Call Center Solution designed to transform the future of tech support.
 
 As a team, we iterate on design prototypes, plan software architecture, and code to bring AIRES to life. Our collaborative efforts and shared vision have enabled us to create a product that not only addresses the needs of modern businesses but also sets a new standard for AI-driven customer service.
+<p float="left">
+  <img src="images/TeamPic2.jpg" width="48%" alt="AIRES Team 1" />
+  <img src="images/TeamPic5.jpg" width="48%" alt="AIRES Team 2" />
+</p>
+
+# Partnership With Computer Guys
+![AIRES Team](images/CG.jpg)
 
 We partnered with [Computer Guys](https://comguys.com/), a tech support company, and visited their office in Kuala Lumpur, Malaysia, to understand their tech support workflow, which helped us refine and enhance AIRES.
 
