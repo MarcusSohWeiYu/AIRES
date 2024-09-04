@@ -34,7 +34,7 @@ As a team, we iterate on design prototypes, plan software architecture, and code
 </p>
 
 # Partnership With Computer Guys
-![AIRES Team](images/CG.jpg)
+![AIRES Team](https://github.com/MarcusSohWeiYu/ProcoLink-AIRES/blob/main/Images/CG.jpg)
 
 We partnered with [Computer Guys](https://comguys.com/), a tech support company, and visited their office in Kuala Lumpur, Malaysia, to understand their tech support workflow, which helped us refine and enhance AIRES.
 
